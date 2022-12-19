@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { exit } from "process"
 
 const [node, file, ...hours] = process.argv
