@@ -1,5 +1,5 @@
 node_modules/
 index.js
 count-ponto
-./package-lock.json
+package-lock.json
 build/
